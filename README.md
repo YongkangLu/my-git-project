@@ -1,6 +1,6 @@
 # My GIT repository
 
-> nothing important
+> My innocent little change
 
 ## Im in the feature branch
 
