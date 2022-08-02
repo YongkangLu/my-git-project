@@ -1,6 +1,6 @@
 # My GIT repository
 
-> nothing important
+> My scary merge conflict code
 
 ## Im in the feature branch
 
